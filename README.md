@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Astrr! 👋
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=astrr)](https://github.com/anuraghazra/github-readme-stats)
 
+I'm a Russian IT Security student that tries to make open source software better :)
+
+I also like computational photography and VR stuff.
+
+_And btw, my pronouns are he/them_
 <!--
 **Astrr/Astrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
