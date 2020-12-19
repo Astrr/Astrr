@@ -1,9 +1,9 @@
 ### Hi there, I'm Astrr! 👋
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=astrr)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a Russian IT Security student that tries to make open source software better :)
+I'm 17, live in Russia and study IT Security. I also try to make open source software better :)
 
-I also like computational photography and VR stuff.
+Computational photography and VR are cool!
 
 _And btw, my pronouns are he/them_
 <!--
