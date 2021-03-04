@@ -5,7 +5,7 @@ I'm 17, live in Russia and study IT Security. I also try to make open source sof
 
 Computational photography and VR are cool!
 
-_And btw, my pronouns are he/them_
+_And btw, you can use any pronouns referring to me, but I prefer he/them_
 <!--
 **Astrr/Astrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
